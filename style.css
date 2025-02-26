@@ -1,0 +1,23 @@
+.node {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: 2px;
+}
+
+h1 {
+  color: red;
+}
+
+
+.Likebar {
+  fill: blue;
+}
+
+.Dislikebar {
+  fill: red;
+}
+
+.datatext {
+  font-size:7px;
+  fill: #772211
+}
